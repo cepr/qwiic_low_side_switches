@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PCA9534_16TSSOP
+F http://www.ti.com/lit/ds/symlink/pca9534.pdf
+$ENDCMP
+#
+$CMP TCA6408A-Q1
+F http://www.ti.com/lit/ds/symlink/tca6408a-q1.pdf
+$ENDCMP
+#
+#End Doc Library
